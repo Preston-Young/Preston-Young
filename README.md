@@ -2,13 +2,14 @@
 Welcome to my page!
 
 ## 📝 About Me
-I'm a Computer Science student at UC Irvine extremely interested in developing web apps and learning new technologies in order to build unique projects. Feel free to browse my profile and check out any of the projects I've made or contributed to! Feel free to check out my [website](https://preston-young.github.io/) too 😄
+I'm an upcoming Software Engineer at Plaid extremely interested in developing web apps and learning new technologies in order to build unique projects. Feel free to browse my profile and check out any of the projects I've made or contributed to! Feel free to check out my [website](https://preston-young.github.io/) too 😄
 
 ## 🧐 What I'm Up To
-🎗 _**Full Stack Developer**_ for **[Commit the Change, UCI](https://ctc-uci.com/)**  
-💰 _**Software Engineer Intern**_ at **[Plaid](https://plaid.com/)**
+💰 _**Software Engineer**_ at **[Plaid](https://plaid.com/)**
 
 ## 🕰 Past Experiences
+🔎 _**Software Engineer Intern**_ at **[Google](https://www.google.com/)**  
+💳 _**Software Engineer Intern**_ at **[Plaid](https://plaid.com/)**  
 🛒 _**Software Engineer Intern**_ at **[Amazon](https://aws.amazon.com/)**  
 ➗ _**Software Engineer Intern**_ at **[MathWorks](https://www.mathworks.com/)**  
 💄 _**Software Engineer Intern**_ at **[Formosi](https://www.formosi.com/)**  
